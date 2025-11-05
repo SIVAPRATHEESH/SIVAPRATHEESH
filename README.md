@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=30&pause=1000&color=00FFFF&vCenter=true&width=600&lines=Exploring+AI:+Pushing+Boundaries;Self-Taught+Full+Stack+Explorer;Passionate+AI+%26+Data+Science+Learner;Innovation:+Fuel+for+the+Future;Code+Like+a+Rocket:+Precision+and+Speed;" alt="Typing SVG"/>
 </p>
 
-## Hi, I'm <span style="color:#FF0000;">V</span> Sivapratheesh
+## Hi, I'm <span style="color:#FF0000;"></span> Sivapratheesh
 
 <p align="center">
     <img src="https://img.shields.io/badge/Self--Taught_AI_Engineer_%26_Tech_Explorer-%23007bff?style=for-the-badge&logoColor=white" alt="Self-Taught AI Engineer & Tech Explorer" width="3000" height="60"/>
@@ -18,7 +18,7 @@
 - ⚙️ **Top Tech Stacks**: Python, Java, SQL  
 - 🛠️ **Skills**: Machine Learning, Data Analysis, Deep Learning, Research & Development  
 - 🌏 **Languages**: Tamil, English  
-- 💻 **Hobbies**: Coding, Exploring New Tech, Watching Stand-Up Comedy, Kabaddi  
+- 💻 **Hobbies**: Coding, Exploring New Tech, 
 
 ---
 
