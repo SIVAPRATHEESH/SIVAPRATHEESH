@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/sivapratheesh/sivapratheesh/blob/main/Assets/Banner.png" alt="Sivapratheesh's Banner"/>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=30&pause=1000&color=00FFFF&vCenter=true&width=600&lines=Exploring+AI:+Pushing+Boundaries;Self-Taught+Full+Stack+Explorer;Passionate+AI+%26+Data+Science+Learner;Innovation:+Fuel+for+the+Future;Code+Like+a+Rocket:+Precision+and+Speed;" alt="Typing SVG"/>
@@ -98,4 +98,5 @@
 <hr/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sivapratheesh)
-![GitHub Last commit](https://img.shields.io/github/last-commit/sivapratheesh/sivapratheesh)
+![GitHub Last commit](https://img.shields.io/github/last-commit/sivapratheesh/sivapratheesh)-->
+
