@@ -9,26 +9,26 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 I am an Aspiring Software Engineer currently pursuing my Bachelor of Technology in Artificial Intelligence and Data Science at VSB College of Engineering & Technical Campus, Coimbatore, maintaining a CGPA of 8.15[cite: 1].
-* 💡 I am skilled in Python, Java, and Machine Learning, with practical experience in data analysis, visualization, and automation[cite: 1].
-* 🧠 I am equipped with strong analytical and communication skills, allowing me to tackle complex debugging and problem-solving challenges[cite: 1].
+* 🎓 I am an Aspiring Software Engineer currently pursuing my Bachelor of Technology in Artificial Intelligence and Data Science at VSB College of Engineering & Technical Campus, Coimbatore, maintaining a CGPA of 8.15.
+* 💡 I am skilled in Python, Java, and Machine Learning, with practical experience in data analysis, visualization, and automation.
+* 🧠 I am equipped with strong analytical and communication skills, allowing me to tackle complex debugging and problem-solving challenges.
 * 🏍️ When I'm not coding, I enjoy riding my KTM Duke 250, usually with my favorite Spotify playlist on loop.
-* 📫 Reach me at: **sivadeveloper24@gmail.com**[cite: 1]
+* 📫 Reach me at: **sivadeveloper24@gmail.com**
 
 ---
 
 ## 💼 Experience
 
-**Data Analytics Intern** | *Zidio Development* (April 2024 – June 2024)[cite: 1]
-* Contributed to small ML model experiments as part of team projects[cite: 1].
-* Assisted in performing exploratory data analysis (EDA) using Python libraries such as Pandas, NumPy, and Matplotlib to identify key trends and insights[cite: 1].
+**Data Analytics Intern** | *Zidio Development* (April 2024 – June 2024)
+* Contributed to small ML model experiments as part of team projects.
+* Assisted in performing exploratory data analysis (EDA) using Python libraries such as Pandas, NumPy, and Matplotlib to identify key trends and insights.
 
 ---
 
 ## 🚀 Featured Projects
 
-* **AI Data Scientist Agent (End-to-End ML Automation Web App):** Built an end-to-end automated data science web app to streamline data cleaning, visualization, modeling, and report generation[cite: 1]. Implemented modules for data upload, schema inspection, handling missing values, duplicate removal, and outlier detection[cite: 1]. Integrated interactive data visualization (correlation charts, plots) for quick exploratory analysis[cite: 1].
-* **Web Scraping & Data Extraction Tool:** Developed a Python-based web scraper using BeautifulSoup to extract data from target websites[cite: 1]. Designed the tool to allow users to paste a link and automatically save extracted data into a CSV file, streamlining the data collection process for data engineers[cite: 1].
+* **AI Data Scientist Agent (End-to-End ML Automation Web App):** Built an end-to-end automated data science web app to streamline data cleaning, visualization, modeling, and report generation. Implemented modules for data upload, schema inspection, handling missing values, duplicate removal, and outlier detection. Integrated interactive data visualization (correlation charts, plots) for quick exploratory analysis.
+* **Web Scraping & Data Extraction Tool:** Developed a Python-based web scraper using BeautifulSoup to extract data from target websites. Designed the tool to allow users to paste a link and automatically save extracted data into a CSV file, streamlining the data collection process for data engineers.
 * **Generative AI Video Modifier:** Corrected and optimized a video generation model to accurately identify and render custom motorcycle components. Specifically fine-tuned the model to adjust headlight mask colors and fix text placement, ensuring the 'Duke' text remained orange while the '250' remained gray.
 
 ---
@@ -55,15 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" title="NumPy" />
 </div>
 
-* **Programming:** Python, Java[cite: 1]
-* **Database:** SQL[cite: 1]
-* **Version Control:** Git[cite: 1]
-* **Core Concepts:** OOPs[cite: 1]
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIVAPRATHEESH&show_icons=true&theme=tokyonight&hide_border=true" alt="Sivapratheesh's GitHub Stats" />
-</div>
+* **Programming:** Python, Java
+* **Database:** SQL
+* **Version Control:** Git
+* **Core Concepts:** OOPs
