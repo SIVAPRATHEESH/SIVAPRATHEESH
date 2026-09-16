@@ -35,11 +35,14 @@ I am currently focused on strengthening my software engineering skills and build
 
 ## 🚀 Featured Projects
 
-* **AI Data Scientist Agent (End-to-End ML Automation Web App):** Built an end-to-end automated data science web app to streamline data cleaning, visualization, modeling, and report generation. Implemented modules for data upload, schema inspection, handling missing values, duplicate removal, and outlier detection. Integrated interactive data visualization (correlation charts, plots) for quick exploratory analysis.
-* **Web Scraping & Data Extraction Tool:** Developed a Python-based web scraper using BeautifulSoup to extract data from target websites. Designed the tool to allow users to paste a link and automatically save extracted data into a CSV file, streamlining the data collection process for data engineers.
-* **Generative AI Video Modifier:** Corrected and optimized a video generation model to accurately identify and render custom motorcycle components. Specifically fine-tuned the model to adjust headlight mask colors and fix text placement, ensuring the 'Duke' text remained orange while the '250' remained gray.
+- **Job Application Management System – Microservices Backend**  
+  Developed a microservices-based Job Application Management System using Java and Spring Boot, with independent Job, Company, and Review services exposing RESTful APIs. Implemented Spring Cloud Gateway, Eureka Service Discovery, centralized configuration, RabbitMQ for asynchronous communication, and Zipkin for distributed tracing. Used PostgreSQL with Spring Data JPA and Docker for containerization.
 
----
+- **Quiz Application – Microservices**  
+  Designed and developed a microservices-based quiz application using Java, Spring Boot, Spring Cloud, MySQL, and Spring Data JPA. Implemented independent Question-Service and Quiz-Service with OpenFeign for inter-service communication. Developed REST APIs for question management, category-based filtering, randomized question selection, and configured Eureka for service discovery.
+
+- **Ecommerce Admin Panel**  
+  Built a full-stack product management web application using Java, Spring Boot MVC, Spring Data JPA, H2, JSP, and JSTL. Implemented CRUD operations for product inventory, product details management, and a basic checkout flow. Designed multiple web views with custom CSS for a clean user interface.
 
 ## 🛠️ Languages and Tools
 
