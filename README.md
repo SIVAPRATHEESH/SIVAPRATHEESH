@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Sivapratheesh&fontSize=50&animation=fadeIn" />
 </div>
 
-<h3 align="center">Aspiring Software Engineer | B.Tech Artificial Intelligence & Data Science</h3>
+<h3 align="center"> Software Engineer | B.Tech Artificial Intelligence & Data Science</h3>
 
 ---
 
