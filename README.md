@@ -66,7 +66,47 @@ I am currently focused on strengthening my software engineering skills and build
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" title="NumPy" />
 </div>
 
-* **Programming:** Python, Java
-* **Database:** SQL
-* **Version Control:** Git
-* **Core Concepts:** OOPs
+## 🛠️ Languages and Tools
+
+### 💻 Languages
+- **Java**
+- **Python**
+- **SQL**
+
+### 🚀 Frameworks & Technologies
+- **Spring Boot**
+- **Spring MVC**
+- **Spring Cloud**
+- **Spring Data JPA**
+- **Hibernate**
+- **Lombok**
+- **REST API Design**
+- **JUnit 5**
+
+### 🏗️ Architecture
+- **Microservices**
+- **MVC Pattern**
+- **API Gateway**
+- **Service Discovery**
+- **OpenFeign**
+- **Monolith-to-Microservices Migration**
+
+### 🗄️ Databases
+- **MySQL**
+- **PostgreSQL**
+- **H2**
+- **RDBMS Concepts**
+
+### 🔧 Tools & DevOps
+- **Git**
+- **GitHub**
+- **Docker**
+- **Docker Compose**
+- **Postman**
+- **Maven**
+
+### 🧠 Core Concepts
+- **Object-Oriented Programming (OOP)**
+- **Debugging**
+- **Problem Solving**
+- **Analytical Thinking**
