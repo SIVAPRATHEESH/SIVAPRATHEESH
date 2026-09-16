@@ -7,13 +7,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## ## 👨‍💻 About Me
 
-* 🎓 I am an Aspiring Software Engineer currently pursuing my Bachelor of Technology in Artificial Intelligence and Data Science at VSB College of Engineering & Technical Campus, Coimbatore, maintaining a CGPA of 8.15.
-* 💡 I am skilled in Python, Java, and Machine Learning, with practical experience in data analysis, visualization, and automation.
-* 🧠 I am equipped with strong analytical and communication skills, allowing me to tackle complex debugging and problem-solving challenges.
-* 🏍️ When I'm not coding, I enjoy riding my KTM Duke 250, usually with my favorite Spotify playlist on loop.
-* 📫 Reach me at: **sivadeveloper24@gmail.com**
+I am an aspiring Software Engineer with a B.Tech in Artificial Intelligence and Data Science from VSB College of Engineering & Technical Campus, with a CGPA of 8.15.
+
+I have hands-on experience in Java, Python, SQL, and software development, with a strong interest in backend development, REST APIs, and building scalable applications.
+
+🔹 Experienced with Java, Spring Boot, Spring MVC, Spring Data JPA, and REST API development.  
+🔹 Familiar with Microservices Architecture, API Gateway, Eureka Service Discovery, and OpenFeign.  
+🔹 Experienced with MySQL, PostgreSQL, H2, Git, GitHub, Docker, Docker Compose, Postman, and Maven.  
+🔹 Built projects involving Job Application Management, Quiz Applications, and E-commerce Administration.  
+🔹 Strong foundation in Object-Oriented Programming, debugging, problem-solving, and analytical thinking.
+
+I am currently focused on strengthening my software engineering skills and building practical, maintainable applications.
+
+📫 Reach me at: sivadeveloper24@gmail.com
 
 ---
 
